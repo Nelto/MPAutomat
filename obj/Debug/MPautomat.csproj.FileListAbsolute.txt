@@ -1,0 +1,7 @@
+C:\Users\Nelto\source\repos\MPautomat\MPautomat\bin\Debug\MPautomat.exe.config
+C:\Users\Nelto\source\repos\MPautomat\MPautomat\bin\Debug\MPautomat.exe
+C:\Users\Nelto\source\repos\MPautomat\MPautomat\bin\Debug\MPautomat.pdb
+C:\Users\Nelto\source\repos\MPautomat\MPautomat\obj\Debug\MPautomat.csprojResolveAssemblyReference.cache
+C:\Users\Nelto\source\repos\MPautomat\MPautomat\obj\Debug\MPautomat.csproj.CoreCompileInputs.cache
+C:\Users\Nelto\source\repos\MPautomat\MPautomat\obj\Debug\MPautomat.exe
+C:\Users\Nelto\source\repos\MPautomat\MPautomat\obj\Debug\MPautomat.pdb
